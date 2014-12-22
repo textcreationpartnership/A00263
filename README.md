@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of by the church-wardens and sworne-men, within the diocesse of Winchester i
+THe Church-wardens and their
+assistants are straightly required
+to read or heare all these
+Articles 
 #####Body#####
+Articles to bee enquired of, by the Church-wardens and
+Sworne-men, within the Diocesse of Winchester
+    _ Articles concerning the Cleargie.
 
+    _ Articles concerning the Churchwardens and
+their assistants.
+These subscribed Articles, are specially enioyned and commanded
+by the said Reuerend father, to be f
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
